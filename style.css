@@ -58,3 +58,7 @@ a {
   font-size: 1.5rem;
 }
 
+.bg-image {
+  text-stroke: 5px #fff;
+}
+
